@@ -6,8 +6,6 @@ comments: true
 author: alindobre
 ---
 
-# Simple realtime blocking of failed login attempts
-
 I get this question a lot and notice many folks using complex scripts for a problem which is, even in enterprise environments, a simple one. How do you ban failed login attempts in an efficient way?
 
 The idea is simple. Some daemon detects failed ssh attempts and feeds those IP addresses to a network access control system, which in turn denies the access for a while. That’s it.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About bashwizard.com"
-permalink: /about/
+permalink: "/about"
 ---
 bashwizard.com is a website and blog with stuff about bash.
 

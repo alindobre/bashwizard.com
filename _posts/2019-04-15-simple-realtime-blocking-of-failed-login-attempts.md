@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple realtime blocking of failed login attempts"
-date: 2019-04-15 12:34
+date: "2019-04-15 12:34"
 comments: true
 author: alindobre
 ---

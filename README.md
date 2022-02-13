@@ -1,3 +1,10 @@
+---
+layout: page
+title: home
+description: "Teach about bash"
+permalink: /
+---
+
 # This is bashwizard.com
 
 <ul>

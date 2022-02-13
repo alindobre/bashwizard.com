@@ -2,7 +2,7 @@
 layout: page
 title: home
 description: "Teach about bash"
-permalink: /
+permalink: /bashwizard.com
 ---
 
 # This is bashwizard.com

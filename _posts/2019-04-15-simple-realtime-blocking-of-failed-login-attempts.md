@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Simple realtime blocking of failed login attempts"
+date: 2019-04-15 12:34
+comments: true
+author: alindobre
+---
+
 # Simple realtime blocking of failed login attempts
 
 I get this question a lot and notice many folks using complex scripts for a problem which is, even in enterprise environments, a simple one. How do you ban failed login attempts in an efficient way?

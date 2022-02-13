@@ -1,3 +1,8 @@
+---
+layout: page
+title: "About bashwizard.com"
+permalink: /about/
+---
 bashwizard.com is a website and blog with stuff about bash.
 
 Almost 20 years ago I realized that bash is one of the most accessible tools out there. It was installed on all Linuxes, on some BSDs and even on some other Unix or Unix-likes. But at the same time it was – and still is – one of the most underutilized tools.

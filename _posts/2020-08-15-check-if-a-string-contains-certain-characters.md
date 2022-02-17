@@ -1,3 +1,7 @@
+---
+layout: "post"
+---
+
 # Check if a string contains certain characters
 
 As with all in bash, there is no good or bad solution when it comes to checking if a string contains certain characters or substrings. It mostly depends on the rest of the script or the collection, the coding style and your personal preference. So let’s crack on.

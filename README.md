@@ -1,6 +1,6 @@
 # This is bashwizard.com
 
-<a href="{{ site.baseurl }}about">About</a>
+<a href="{{ site.baseurl }}/about">About</a>
 
 <ul>
   {% for post in site.posts %}

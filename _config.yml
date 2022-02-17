@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 permalink: "/:title/"
-baseurl: "/bashwizard.com"
+baseurl: "/"
 title: "bash@wizard:~ $"
 defaults:
   -

@@ -1,4 +1,4 @@
-# This is bashwizard.com
+# bash@wizard:~ $
 
 <a href="{{ site.baseurl }}/about">About</a>
 
